@@ -8,7 +8,7 @@ SAIL is an in-air deployable payload capable of safely retaining and recovering 
 
 ## Description
 
-Our custom SAIL module is a UAS-style payload that will be deployed upon receiving radio commands, then autonomously land under acceptable parameters and log flight data. The final electronics package shall be a custom 2x2 in Printed Circuit Board (PCB) that will be mounted on the SAIL payload.
+The Advanced Rocketry Club of the University of North Dakota is designing a UAS-style payload that will deploy upon descent, autonomously land under acceptable parameters, and log flight data. The final electronics package shall be a custom 2x2 in Printed Circuit Board (PCB) that will be mounted on the SAIL payload with various connections to the battery, safety switch, landing leg release, and Electronic Speed Controllers (ESCs).
 
 ## Getting Started
 
