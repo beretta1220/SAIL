@@ -8,11 +8,11 @@ SAIL is an in-air deployable payload capable of safely retaining and recovering 
 
 ## Description
 
-Our custom SAIL module is a UAS-style payload that will be deployed upon receiving radio commands, then autonomously land under acceptable parameter and log survivability metrics and flight data. The final electronics package shall be a custom 2x2 in Printed Circuit Board (PCB) that will be mounted on the SAIL payload.
+Our custom SAIL module is a UAS-style payload that will be deployed upon receiving radio commands, then autonomously land under acceptable parameters and log flight data. The final electronics package shall be a custom 2x2 in Printed Circuit Board (PCB) that will be mounted on the SAIL payload.
 
 ## Getting Started
 
-# Hardware
+### Hardware
 - Teensy 4.0 Microcontroller
 - BNO055 IMU
 - BMP390 Pressure Sensor
