@@ -1,12 +1,28 @@
-USLI Payload Mission objective: Design a STEMnauts Atmosphere Independent Lander (SAIL). 
-- SAIL is an in-air deployable payload capable of safely retaining and recovering a group of 4 STEMnauts in a unique predetermined orientation without the use of a parachute or streamer or chemical energetics below 500 ft AGL. 
-- The landing shall occur under acceptable descent and landing parameters for the safe recovery of human beings.
+# STEMnauts Atmosphere Independent Lander (SAIL)
 
-Electronics Part List:
+UND ARC SAIL Payload Module
+
+## NASA Objective
+
+SAIL is an in-air deployable payload capable of safely retaining and recovering a group of 4 STEMnauts in a unique predetermined orientation without the use of a parachute or streamer or chemical energetics below 500 ft AGL. The landing shall occur under acceptable descent and landing parameters for the safe recovery of human beings.
+
+## Description
+
+Our custom SAIL module is a UAS-style payload that will be deployed upon receiving radio commands, then autonomously land under acceptable parameter and log survivability metrics and flight data. The final electronics package shall be a custom 2x2 in Printed Circuit Board (PCB) that will be mounted on the SAIL payload.
+
+## Getting Started
+
+# Hardware
+- Teensy 4.0 Microcontroller
 - BNO055 IMU
 - BMP390 Pressure Sensor
 - SPI Flash Chip
 - MicroSD Card Holder
-- Teensy 4.0 MCU
 - Adafruit Ultimate GPS
 - RFM95W 915MHz Radio Transceiver
+- Xnova 4025 1120 KV Brushless Motor
+- iFlight XING-E Pro 2207 1800KV Brushless Motor
+- V-Good RC 32-Bit 120A 2-8S Brushless ESC
+- Lumenier 36A BLHeli_32 32bit ESC
+- 9V Battery
+- 6S 2200mAh LiPo Battery
