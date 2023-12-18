@@ -26,3 +26,9 @@ The Advanced Rocketry Club of the University of North Dakota is designing a UAS-
 - Lumenier 36A BLHeli_32 32bit ESC
 - 9V Battery
 - 6S 2200mAh LiPo Battery
+
+### Software
+- C++ w/ Arduino IDE
+- PCB designed in KiCad 7.0
+
+  
