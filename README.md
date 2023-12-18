@@ -2,7 +2,7 @@
 
 UND ARC SAIL Payload Module
 
-## NASA Objective
+## NASA Student Launch Objective
 
 SAIL is an in-air deployable payload capable of safely retaining and recovering a group of 4 STEMnauts in a unique predetermined orientation without the use of a parachute or streamer or chemical energetics below 500 ft AGL. The landing shall occur under acceptable descent and landing parameters for the safe recovery of human beings.
 
