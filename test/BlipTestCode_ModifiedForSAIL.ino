@@ -18,6 +18,7 @@
 #include "I2Cdev.h"
 //#include "MPU6050.h"
 #include "Adafruit_BMP3XX.h"
+#include <RH_RF95.h>
 
 
 //First, we'll set up the LEDs and buzzer
@@ -69,6 +70,12 @@ int Pyro1 = 21;
 //Servo TVCXservo;
 //Servo TVCYservo;
 
+// This is for the RFM95 Radio
+#define RFM95_CS 10
+#define RFM95_RST 2
+//#define RFM95_INT 2
+#define RF95_FREQ 915.0
+RH_RF95 rf95(RFM95_CS, RFM95_INT);
 
 
 void setup() {
